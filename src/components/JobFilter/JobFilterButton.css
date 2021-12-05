@@ -1,0 +1,21 @@
+.FilterButton {
+	background-color: #effafa;
+	color: #5ca5a5;
+	font-weight: bold;
+	font-style: 1.3rem;
+	line-height: 2.4rem;
+	letter-spacing: -0.01rem;
+	padding: 0.4rem 0.9rem;
+	border-radius: 0.4rem;
+	border: none;
+	margin-bottom: 1.6rem;
+	margin-right: 1.6rem;
+	cursor: pointer;
+}
+
+@media screen and (min-width: 1440px) {
+	.FilterButton:hover {
+		background-color: #5ca5a5;
+		color: #ffffff;
+	}
+}

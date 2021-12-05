@@ -1,0 +1,11 @@
+.Nav {
+	background: url(../../images/bg-header-mobile.svg) rgb(92, 165, 165) no-repeat;
+	background-size: cover;
+	height: 15.6rem;
+	margin-bottom: 5.6rem;
+}
+@media screen and (min-width: 1440px) {
+	.Nav {
+		margin-bottom: 7.6rem;
+	}
+}

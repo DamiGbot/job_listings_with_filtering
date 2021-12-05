@@ -1,0 +1,25 @@
+.JobLists {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 4rem;
+}
+
+.filterTrue {
+	transform: translateY(-10rem);
+}
+
+.horizontalLine {
+	display: block;
+}
+
+@media screen and (min-width: 1440px) {
+	.JobLists {
+		gap: 2.4rem;
+	}
+
+	.horizontalLine {
+		display: none;
+	}
+}
