@@ -19,7 +19,7 @@ The user should be able to:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/DamiGbot/Photosnap-mutli-page-website.git
+git clone https://github.com/DamiGbot/job_listings_with_filtering
 ```
 
 2. Install dependencies
