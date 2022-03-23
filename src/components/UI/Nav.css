@@ -3,6 +3,9 @@
 	background-size: cover;
 	height: 15.6rem;
 	margin-bottom: 5.6rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 @media screen and (min-width: 1440px) {
 	.Nav {
